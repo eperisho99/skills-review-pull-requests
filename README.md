@@ -12,7 +12,7 @@
 _Collaborate and work together on GitHub._
 
 </header>
-
+Why is this in this code block?
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
